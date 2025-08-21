@@ -10,13 +10,11 @@ O Sql está hospedado em live, passo a passo para acessar: <br />
 [Url acesso para SQL](https://phpmyadmin.umbler.com)
 
 Credenciais <br />
-Servidor: mysql995.umbler.com <br />
-Usuário: caioamerico <br />
-Senha: lalaop13
+Contact: caioamerico@hotmail.com
 
 # Como Instalar e rodar local:
 
-$ git clone git@gitlab.com:GaidenX/prova-todo.git
+Clone project
 <br />
 $ node server.js
 
